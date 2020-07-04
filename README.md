@@ -1,6 +1,6 @@
 # Intro to Unit Testing with JavaScript
 
-This small repo is intended to accompany the [Intro to Unit Testing with JavaScript lesson for Front End Module 1](https://frontend.turing.io/lessons/module-1/intro-to-testing-javascript.html).
+This small repo is intended to accompany the [Intro to Unit Testing with JavaScript lesson for Front End Module 1](http://academy.solidkraft.com/lessons/module-1/intro-to-testing-javascript.html).
 
 ## Set Up
 
